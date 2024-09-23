@@ -64,6 +64,7 @@ body {
     text-align: center;
     transition: background-color 0.3s;
     border-radius:30px;
+    margin-bottom: 15px;
 }
 
 .actions a:hover {
