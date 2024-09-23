@@ -60,9 +60,10 @@ body {
     border-radius: 5px;
     font-size: 1.2em;
     width: 100%; 
-    max-width: 250px; 
+    max-width: 200px; 
     text-align: center;
     transition: background-color 0.3s;
+    border-radius:30px;
 }
 
 .actions a:hover {
