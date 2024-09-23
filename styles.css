@@ -55,7 +55,7 @@ body {
 .actions a {
     text-decoration: none;
     color: white;
-    background-color:  #6A5ACD;
+    background-color:#483D8B;
     padding: 10px 40px; 
     border-radius: 5px;
     font-size: 1.2em;
@@ -68,7 +68,7 @@ body {
 }
 
 .actions a:hover {
-    background-color:  #483D8B;
+    background-color:#6A5ACD; 
 }
 
 .watermark {
